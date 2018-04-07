@@ -1,5 +1,4 @@
 # Donation-Analytics
-Insight Data Engineering Challenge
 
 Parent Class - Donation Analytics
 with two sub classes 
